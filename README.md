@@ -1,2 +1,2 @@
-# mini-resume-test-
+# mini-resume-test
 Language(ru)
